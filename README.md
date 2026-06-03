@@ -69,23 +69,7 @@ I'm a **Data & BI Analyst** with **3+ years of experience** transforming raw dat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AishwaryaBrungi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=AishwaryaBrungi&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaBrungi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AishwaryaBrungi&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
