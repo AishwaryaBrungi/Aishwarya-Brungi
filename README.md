@@ -6,8 +6,10 @@
 <!-- Wave GIF -->
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
+# Hi, I'm Aishwarya Brungi! 👋
+
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Aishwarya+Brungi!+%F0%9F%91%8B;Data+%26+BI+Analyst+%7C+Turning+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Data+%26+BI+Analyst+%7C+3%2B+Years+Experience;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80;Power+BI+%7C+Tableau+%7C+Python+%7C+SQL;Microsoft+PL-300+Certified+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
