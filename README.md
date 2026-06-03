@@ -12,8 +12,8 @@
 
 ### 📊 Data & BI Analyst &nbsp;|&nbsp; 3+ Years Experience
 
-<!-- Typing SVG - short lines max ~30 chars each -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=6A0DAD&center=true&vCenter=true&width=440&height=45&lines=Power+BI+%7C+Tableau+%7C+SQL;Python+%7C+AWS+%7C+Scikit-learn;GPA+3.98+%7C+PL-300+Certified;Data+into+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Typing SVG - short lines -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=6A0DAD&center=true&vCenter=true&width=440&height=45&lines=Power+BI+%7C+Tableau+%7C+SQL;Python+%7C+AWS+%7C+Scikit-learn;GPA+3.98+%7C+MS+Computer+Science;Data+into+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,6 @@
 I'm a **Data & BI Analyst** with **3+ years of experience** transforming raw data into powerful business insights. I thrive at the intersection of analytics, visualization, and storytelling — making complex data simple and actionable.
 
 - 🎓 **MS in Computer Science** — GPA: **3.98/4.0**
-- 📜 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
 - ☕ Fueled by coffee, dashboards, and a good dataset
 - 🎯 Passionate about turning messy data into clean, compelling stories
 - 🌱 Currently exploring Machine Learning & Cloud Analytics on AWS
@@ -70,12 +69,13 @@ I'm a **Data & BI Analyst** with **3+ years of experience** transforming raw dat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AishwaryaBrungi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaBrungi&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AishwaryaBrungi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=AishwaryaBrungi&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaBrungi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaBrungi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
 
 </div>
 
@@ -85,7 +85,7 @@ I'm a **Data & BI Analyst** with **3+ years of experience** transforming raw dat
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AishwaryaBrungi&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=AishwaryaBrungi&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
