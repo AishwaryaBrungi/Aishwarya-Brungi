@@ -3,13 +3,17 @@
 <!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AishwaryaBrungi&color=blueviolet&style=flat-square&label=Profile+Views)
 
+<br/>
+
 <!-- Wave GIF -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
 
-# Hi, I'm Aishwarya Brungi! 👋
+## Hi, I'm Aishwarya Brungi! 👋
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Data+%26+BI+Analyst+%7C+3%2B+Years+Experience;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80;Power+BI+%7C+Tableau+%7C+Python+%7C+SQL;Microsoft+PL-300+Certified+%F0%9F%8F%86)](https://git.io/typing-svg)
+### 📊 Data & BI Analyst &nbsp;|&nbsp; 3+ Years Experience
+
+<!-- Typing SVG - cycles through short taglines -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=6A0DAD&center=true&vCenter=true&width=500&height=45&lines=Power+BI+%7C+Tableau+%7C+Python+%7C+SQL;MS+Computer+Science+%7C+GPA+3.98;Microsoft+PL-300+Certified+%F0%9F%8F%86;Turning+Data+into+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
