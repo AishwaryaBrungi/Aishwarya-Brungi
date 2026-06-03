@@ -55,6 +55,23 @@ I'm a **Data & BI Analyst** with **3+ years of experience** transforming raw dat
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏠 Airbnb Market Intelligence Platform
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+
+End-to-end analytics pipeline analyzing **13,593 Airbnb listings** across Chicago & New Orleans. Built Python ETL pipeline cleaning 16,048 raw listings with 80% less manual effort, wrote 6 business SQL queries, and created an interactive Power BI dashboard. ML model achieved **R² of 0.887** forecasting annual revenue with a **593.8% pricing optimization opportunity** identified.
+
+[![View Project](https://img.shields.io/badge/🔗_View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AishwaryaBrungi/airbnb-market-intelligence)
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
