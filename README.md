@@ -12,8 +12,8 @@
 
 ### 📊 Data & BI Analyst &nbsp;|&nbsp; 3+ Years Experience
 
-<!-- Typing SVG - cycles through short taglines -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=6A0DAD&center=true&vCenter=true&width=500&height=45&lines=Power+BI+%7C+Tableau+%7C+Python+%7C+SQL;MS+Computer+Science+%7C+GPA+3.98;Microsoft+PL-300+Certified+%F0%9F%8F%86;Turning+Data+into+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Typing SVG - short lines max ~30 chars each -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=6A0DAD&center=true&vCenter=true&width=440&height=45&lines=Power+BI+%7C+Tableau+%7C+SQL;Python+%7C+AWS+%7C+Scikit-learn;GPA+3.98+%7C+PL-300+Certified;Data+into+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
